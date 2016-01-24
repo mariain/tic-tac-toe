@@ -487,6 +487,7 @@
 				1F0221151C52B0EF000FE0B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F0221161C52B0EF000FE0B5 /* Build configuration list for PBXNativeTarget "tic-tac-toeTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				1F0221181C52B0EF000FE0B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F0221191C52B0EF000FE0B5 /* Build configuration list for PBXNativeTarget "tic-tac-toeUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +505,7 @@
 				1F02211B1C52B0EF000FE0B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
